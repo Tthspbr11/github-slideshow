@@ -1,0 +1,27 @@
+{
+  "name": "SpotiFLAC Mobile Source",
+  "identifier": "com.zarzet.spotiflac.source",
+  "subtitle": "FLAC Downloader for iOS",
+  "apps": [
+    {
+      "name": "SpotiFLAC Mobile",
+      "bundleIdentifier": "com.zarz.spotiflac",
+      "developerName": "zarzet",
+      "version": "5.1.0",
+      "versionDate": "2026-10-08",
+      "downloadURL": "https://github.com",
+      "localizedDescription": "SpotiFLAC Mobile is written in Flutter and uses installable extensions for metadata and audio downloads.",
+      "iconURL": "https://githubusercontent.com",
+      "size": 33465739,
+      "versions": [
+        {
+          "version": "5.1.0",
+          "date": "2026-10-08",
+          "downloadURL": "https://github.com",
+          "localizedDescription": "SpotiFLAC Mobile is written in Flutter and uses installable extensions for metadata and audio downloads.",
+          "size": 33465739
+        }
+      ]
+    }
+  ]
+}
